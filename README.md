@@ -3,20 +3,15 @@ My worlds in terraria
 
 #First time setup:
 
-Get the project
+Inside `/Worlds`
 
-Play
+`git init`
 
-After done playing...
+`git remote add origin git@github.com:me/name.git`
 
-`git add .` ~ add the worlds
+`git pull origin master`
 
-`git commit -m "adds progress to world"` ~ add a message explaining that you're adding these things
-
-`git push --set-upstream-to=origin/master master` ~ this will link the world files and the github project
-
-
-#Other times:
+#Normal use:
 
 Before playing...
 
